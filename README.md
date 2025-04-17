@@ -1,6 +1,6 @@
 # Hospital Dashboard Analysis using Power BI
 
-##Project Overview:-
+## Project Overview:-
 
 This project aims to create an insightful Power BI dashboard for analyzing hospital data, focusing on key performance metrics, patient demographics, and treatment outcomes by leveraging data from an SQL database. The dashboard is divided into three pages: Main Page, Performance Analysis, and Patients Detail, each providing critical insights into hospital operations and patient care.
 
