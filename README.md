@@ -29,7 +29,7 @@ The Patient Details Page offers a comprehensive overview of each patient's infor
 
 ## Conclusion:
 
-This Power BI dashboard offers a comprehensive overview of hospital data, empowering stakeholders to make well-informed decisions based on real-time insights📊📈. The data for this project is sourced from a SQL database, ensuring accurate and up-to-date insights into hospital operations. By analyzing patient demographics, treatment outcomes, and operational metrics, the dashboard aims to enhance patient care and optimize hospital performance🚀.
+This Power BI dashboard offers a comprehensive overview of hospital data, empowering stakeholders to make well-informed decisions based on real-time insights. The data for this project is sourced from a SQL database, ensuring accurate and up-to-date insights into hospital operations. By analyzing patient demographics, treatment outcomes, and operational metrics, the dashboard aims to enhance patient care and optimize hospital performance🚀.
 
 ## 🤝 Contributions and Feedback
 Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
